@@ -6,4 +6,8 @@ A Simple Flutter App for Business Card
 
 Flutter project for playing music
 
-![Watch the video](screenshot.png)(video.mp4)
+
+https://user-images.githubusercontent.com/24977412/194192179-15bb044f-7242-4db6-9083-fd8f38b86361.MP4
+
+
+
